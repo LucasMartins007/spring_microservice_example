@@ -23,8 +23,8 @@ public class Accounts {
     @Column(name = "account_type")
     private String accountType;
 
-    @Column(name = "batch_address")
-    private String batchAddress;
+    @Column(name = "branch_address")
+    private String branchAddress;
 
     @Column(name = "create_date")
     private Date createDate;
