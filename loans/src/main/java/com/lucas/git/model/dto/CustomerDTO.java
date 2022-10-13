@@ -1,4 +1,4 @@
-package com.lucas.git.dto;
+package com.lucas.git.model.dto;
 
 import lombok.Getter;
 import lombok.Setter;

@@ -1,7 +1,7 @@
 package com.lucas.git.controller;
 
-import com.lucas.git.dto.CustomerDTO;
-import com.lucas.git.dto.LoanDto;
+import com.lucas.git.model.dto.CustomerDTO;
+import com.lucas.git.model.dto.LoanDto;
 import com.lucas.git.model.Customer;
 import com.lucas.git.model.Loan;
 import com.lucas.git.service.LoansService;
